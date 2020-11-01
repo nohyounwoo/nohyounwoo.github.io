@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Yeonu's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Yeonu's Blog"
+name                     : "nohyounwoo"
 description              : "An amazing website."
 url                      : "https://nohyounwoo.github.io" # the base hostname & protocol for your site e.g.
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Noh Younwoo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I'm Yeonu."
+  location         : "CHONNAM NATIONAL UNIVERSITY"
   email            :
   links:
     - label: "Email"
