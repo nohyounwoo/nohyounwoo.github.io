@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Yeonu's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "nohyounwoo"
+name                     : "Yeonu's Blog"
 description              : "An amazing website."
 url                      : "https://nohyounwoo.github.io" # the base hostname & protocol for your site e.g.
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
